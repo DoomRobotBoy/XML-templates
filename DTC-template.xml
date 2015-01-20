@@ -3,10 +3,10 @@
 <version>1.0.0</version>
 <objective>Leak the enemy core and destroy their monument!</objective>
 <authors>
-    <author>DoomRobotBoy</author>
+    <author contribution=""><!-- author name --></author>
 </authors>
 <contributors>
-    <contributor contribution="XML">DoomRobotBoy</contributor>
+    <contributor contribution=""><!-- contributor name --></contributor>
 </contributors>
 <teams>
     <team id="red" color="dark red" max="10">Red Team</team>
@@ -14,7 +14,7 @@
 </teams>
 <kits>
     <kit name="spawn">
-        <item slot="0" enchantment="damage all:1" damage="-3000" name="`1`lBlue Sword" lore="`4`cRed And Italic">wooden sword</item>
+        <item slot="0" enchantment="damage all:1" damage="-3000" name="`1`lBlue Sword" lore="`4`oRed And Italic">wooden sword</item>
         <item slot="8" amount="64">bread</item>
         <potion duration="10" amplifier="10">damage resistance</potion>
     </kit>
